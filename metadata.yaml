@@ -1,5 +1,5 @@
 _repo: Plays-and-Puritans_3142
-_version: 0.2.0
+_version: 0.2.1
 covers:
 - cover_type: generated
   image_path: cover.png
@@ -31,5 +31,6 @@ subjects:
 - !lcsh 'Great Britain -- History'
 - !lcsh 'Theater -- Great Britain -- History'
 - !lcc 'PR'
+- GITenberg
 title: Plays and Puritans
 url: http://www.gutenberg.org/ebooks/3142
